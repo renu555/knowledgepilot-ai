@@ -42,3 +42,6 @@ Create a fully local enterprise AI assistant capable of:
 ## Status
 
 Currently under development.
+## Why I Built This
+
+This project is being built as part of my journey into AI Engineering. The goal is to create an enterprise-grade, fully local knowledge assistant capable of understanding and retrieving information from diverse document types while preserving data privacy.
